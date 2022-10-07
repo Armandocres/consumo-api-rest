@@ -1,0 +1,22 @@
+body {
+  background-color: brown;
+}
+
+div {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  justify-content: center;
+  flex-direction: column;
+}
+
+button {
+  border-radius: 10px;
+  background-color: blanchedalmond;
+  border: none;
+}
+
+img {
+  width: fit-content;
+  border-radius: 15px;
+}
